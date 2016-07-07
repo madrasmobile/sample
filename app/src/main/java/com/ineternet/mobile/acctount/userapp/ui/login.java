@@ -13,6 +13,7 @@ public class login extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // 수정함.
         setContentView(R.layout.login);
     }
 }
